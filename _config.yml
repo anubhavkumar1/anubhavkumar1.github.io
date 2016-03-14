@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://anubhavkumar1.github.io
+title: Awesome
+email: 
+author: anubhavkumar1
+description: My awesome new site
+paginate: 10
+google_analytics: 
